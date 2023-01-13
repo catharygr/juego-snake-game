@@ -1,1 +1,1 @@
-# Juego de Game Snake con Srimba.com
+# Juego de Snake Game con Srimba.com
